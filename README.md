@@ -23,7 +23,7 @@ It allows you to input specifications for multiple devices side-by-side, calcula
     Value Winner: The device that gives the most performance per Rupee (₹).
 
 ## ##############################################
-The file (main.py) is ready to use , feel free to use it as you please
+The file (Python.py) is ready to use , feel free to use it as you please
 
 use it in vs code for easy execution of the code make sur eto install and import "TKINTER"
 Here is a short, simple, and human-friendly README for your project.
@@ -47,7 +47,7 @@ Open your terminal or command prompt.
 
 Run the command:
 
-python MAIN.py
+python Python.py
 
 
 ## How the "Brain" Works
@@ -65,3 +65,11 @@ It then calculates a VFM Score (Value For Money) by dividing the performance sco
 I've included popular chips (Snapdragon 8 Gen 3, A17 Pro, etc.). If a processor is missing, you can easily add it to the CPU_DB list in the code!
 
 Happy Shopping! 🛒
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+changes -- 
+1. we have added new sliders for battery capacity and its charger wattage
+2. added a new budget slot to get recomendations in between the given budgert or else it suggests if we shoukd save up for the other expensive device if the phone in budget isnt good enough for the given price
+3. the output now occurs in another window making it visible and easy to read
+4. changes in theme and ui - made it look a bit more clean and proffesional 
